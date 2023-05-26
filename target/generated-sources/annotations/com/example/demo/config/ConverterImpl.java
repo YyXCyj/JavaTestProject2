@@ -6,7 +6,7 @@ import javax.annotation.Generated;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2023-05-23T13:14:36+0800",
+    date = "2023-05-26T18:43:53+0800",
     comments = "version: 1.5.2.Final, compiler: javac, environment: Java 1.8.0_74 (Oracle Corporation)"
 )
 public class ConverterImpl extends Converter {
